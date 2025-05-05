@@ -84,8 +84,6 @@ ETL Processes: Leveraged Python and SQL for extracting and transforming data fro
 
 DAX (Data Analysis Expressions): Used to create calculated columns and measures for advanced analytics
 
-Power BI Service: Utilized for publishing reports, sharing with users, and enabling scheduled data refreshes
-
 Snowflake Schema: Adopted for efficient data organization and data modeling
 
 Conclusion
